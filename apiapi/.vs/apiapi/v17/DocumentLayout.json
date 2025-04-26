@@ -1,13 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\apiapi\\",
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\DevOps_CSharp\\apiapi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{635D6058-FD26-41E3-A6F6-C2709A81C771}|apiapi\\apiapi.csproj|c:\\users\\user\\source\\repos\\apiapi\\apiapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{635D6058-FD26-41E3-A6F6-C2709A81C771}|apiapi\\apiapi.csproj|c:\\users\\user\\source\\repos\\devops_csharp\\apiapi\\apiapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{635D6058-FD26-41E3-A6F6-C2709A81C771}|apiapi\\apiapi.csproj|solutionrelative:apiapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{635D6058-FD26-41E3-A6F6-C2709A81C771}|apiapi\\apiapi.csproj|c:\\users\\user\\source\\repos\\devops_csharp\\apiapi\\apiapi\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{635D6058-FD26-41E3-A6F6-C2709A81C771}|apiapi\\apiapi.csproj|solutionrelative:apiapi\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{635D6058-FD26-41E3-A6F6-C2709A81C771}|apiapi\\apiapi.csproj|c:\\users\\user\\source\\repos\\devops_csharp\\apiapi\\apiapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{635D6058-FD26-41E3-A6F6-C2709A81C771}|apiapi\\apiapi.csproj|solutionrelative:apiapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{635D6058-FD26-41E3-A6F6-C2709A81C771}|apiapi\\apiapi.csproj|c:\\users\\user\\source\\repos\\devops_csharp\\apiapi\\apiapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{635D6058-FD26-41E3-A6F6-C2709A81C771}|apiapi\\apiapi.csproj|solutionrelative:apiapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{635D6058-FD26-41E3-A6F6-C2709A81C771}|apiapi\\apiapi.csproj|c:\\users\\user\\source\\repos\\devops_csharp\\apiapi\\apiapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{635D6058-FD26-41E3-A6F6-C2709A81C771}|apiapi\\apiapi.csproj|solutionrelative:apiapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{635D6058-FD26-41E3-A6F6-C2709A81C771}|apiapi\\apiapi.csproj|c:\\users\\user\\source\\repos\\devops_csharp\\apiapi\\apiapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{635D6058-FD26-41E3-A6F6-C2709A81C771}|apiapi\\apiapi.csproj|solutionrelative:apiapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{635D6058-FD26-41E3-A6F6-C2709A81C771}|apiapi\\apiapi.csproj|c:\\users\\user\\source\\repos\\devops_csharp\\apiapi\\apiapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{635D6058-FD26-41E3-A6F6-C2709A81C771}|apiapi\\apiapi.csproj|solutionrelative:apiapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{635D6058-FD26-41E3-A6F6-C2709A81C771}|apiapi\\apiapi.csproj|c:\\users\\user\\source\\repos\\apiapi\\apiapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{635D6058-FD26-41E3-A6F6-C2709A81C771}|apiapi\\apiapi.csproj|c:\\users\\user\\source\\repos\\devops_csharp\\apiapi\\apiapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{635D6058-FD26-41E3-A6F6-C2709A81C771}|apiapi\\apiapi.csproj|solutionrelative:apiapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,26 +54,98 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\DevOps_CSharp\\apiapi\\apiapi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "apiapi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\DevOps_CSharp\\apiapi\\apiapi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "apiapi\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-21T09:35:27.427Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Dockerfile",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\apiapi\\apiapi\\Dockerfile",
-              "RelativeDocumentMoniker": "apiapi\\Dockerfile",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\apiapi\\apiapi\\Dockerfile",
-              "RelativeToolTip": "apiapi\\Dockerfile",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-04-17T10:40:04.906Z",
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\DevOps_CSharp\\apiapi\\apiapi\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "apiapi\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\DevOps_CSharp\\apiapi\\apiapi\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "apiapi\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAwwFQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T09:04:01.289Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\DevOps_CSharp\\apiapi\\apiapi\\appsettings.json",
+              "RelativeDocumentMoniker": "apiapi\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\DevOps_CSharp\\apiapi\\apiapi\\appsettings.json",
+              "RelativeToolTip": "apiapi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-20T20:44:02.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\DevOps_CSharp\\apiapi\\apiapi\\Program.cs",
+              "RelativeDocumentMoniker": "apiapi\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\DevOps_CSharp\\apiapi\\apiapi\\Program.cs",
+              "RelativeToolTip": "apiapi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T20:43:29.862Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\DevOps_CSharp\\apiapi\\apiapi\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "apiapi\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\DevOps_CSharp\\apiapi\\apiapi\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "apiapi\\Models\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T20:39:08.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\DevOps_CSharp\\apiapi\\apiapi\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "apiapi\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\DevOps_CSharp\\apiapi\\apiapi\\Models\\Product.cs",
+              "RelativeToolTip": "apiapi\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T20:37:16.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\DevOps_CSharp\\apiapi\\apiapi\\Dockerfile",
+              "RelativeDocumentMoniker": "apiapi\\Dockerfile",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\DevOps_CSharp\\apiapi\\apiapi\\Dockerfile",
+              "RelativeToolTip": "apiapi\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-17T10:40:04.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\apiapi\\apiapi\\WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\DevOps_CSharp\\apiapi\\apiapi\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "apiapi\\WeatherForecast.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\apiapi\\apiapi\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\DevOps_CSharp\\apiapi\\apiapi\\WeatherForecast.cs",
               "RelativeToolTip": "apiapi\\WeatherForecast.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-17T10:39:58.615Z"
             }
